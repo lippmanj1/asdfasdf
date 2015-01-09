@@ -1,2 +1,3 @@
 this is the red text file
 hello
+goodbye
